@@ -52,5 +52,7 @@
 
 ## 🔗 相关 Fork 项目
 
-- 🔹 [Fork Project 1]([https://github.com/yourname/project1](https://github.com/Lying-cocktail/LC-AutoConnect.git))
-- 🔹 [Fork Project 2]([https://github.com/yourname/project2](https://github.com/Lying-cocktail/LC-PageBuilder.git))
+- 🔹 [Fork Project 1](https://github.com/Lying-cocktail/LC-AutoConnect.git)
+- 🔹 [Fork Project 2](https://github.com/Lying-cocktail/LC-PageBuilder.git)
+
+
